@@ -4,7 +4,11 @@ export default function ChoresList () {
    return (
       <div>
          <h1 className={styles.choresHeading}>Chores List</h1>
-         <p className={styles.choresText}>No content is here!</p>
+         <ul className={styles.choresText}>
+            <li>Laundry</li>
+            <li>Library</li>
+            <li>Groceries</li>
+         </ul>
       </div>
    );
 }
