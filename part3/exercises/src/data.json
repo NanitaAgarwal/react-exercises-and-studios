@@ -1,0 +1,32 @@
+[
+    {
+        "plantName": "pothos",
+        "plantType": "indoor",
+        "plantCategory": "all season",
+        "waterDuration": "once a week"
+    },
+    {
+        "plantName": "snake",
+        "plantType": "indoor",
+        "plantCategory": "all season",
+        "waterDuration": "once a month"
+    },
+    {
+        "plantName": "okra",
+        "plantType": "outdoor",
+        "plantCategory": "seasonal",
+        "waterDuration": "daily"
+    },
+    {
+        "plantName": "beans",
+        "plantType": "outdoor",
+        "plantCategory": "seasonal",
+        "waterDuration": "daily"
+    },
+    {
+        "plantName": "mint",
+        "plantType": "indoor/outdoor",
+        "plantCategory": "all season",
+        "waterDuration": "thrice a week"
+    }
+]
